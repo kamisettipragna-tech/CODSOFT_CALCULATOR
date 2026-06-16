@@ -46,15 +46,6 @@ A modern, fully functional calculator web application built with Python Flask an
 ### History Panel
 ![History Panel](https://via.placeholder.com/800x400/0f0c29/ffffff?text=History+Panel)
 
----
-
-## 🚀 Live Demo
-
-![Calculator Demo](https://via.placeholder.com/800x400/0f0c29/ffffff?text=Watch+Demo+Video)
-
-> **Watch the demo video**: [Link to your video]
-
----
 
 ## 📦 Installation
 
